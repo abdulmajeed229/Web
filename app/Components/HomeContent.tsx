@@ -15,7 +15,7 @@ function Content() {
             
             <div className="imgdiv h-full w-[35%] bg-[#2FB3CD] flex items-center justify-center">
                 
-                <img data-aos="fade-right" src="https://alexio-react.vercel.app/static/img/user.png" className="h-[558px]" alt="User Profile" />
+                <img data-aos="fade-right" src="https://alexio-react.vercel.app/static/img/.png" className="h-[558px]" alt="User Profile" />
             </div>
 
 
